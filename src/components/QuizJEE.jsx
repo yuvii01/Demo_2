@@ -107,6 +107,7 @@ const Select = styled.select`
   border-radius: 9px;
   border: 1.5px solid #bdbdbd;
   font-size: 1.05rem;
+  color: #1976d2;
   background: #f8fafc;
   transition: border 0.2s;
   &:focus {
